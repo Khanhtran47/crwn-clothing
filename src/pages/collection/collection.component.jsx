@@ -5,8 +5,6 @@ import { selectCollection } from "../../redux/shop/shop.selectors";
 
 import CollectionItem from "../../components/collection-item/collection-item.component";
 
-import "./collection.styles.scss";
-
 import {
   CollectionPageContainer,
   CollectionTitleContainer,
